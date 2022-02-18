@@ -1,4 +1,4 @@
-const Shared =  {
+ const Shared =  {
 
 }
 export {
